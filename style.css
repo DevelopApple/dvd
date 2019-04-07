@@ -41,7 +41,7 @@ background-color: #fff;
 	font-weight: 700;
 	letter-spacing: 0.82px;
 	line-height: 41px;
-	color: #ffffff;
+	color: #000000;
 }
 
 .header-date {
@@ -183,8 +183,8 @@ background-color: #fff;
 
 .app-image {
 	display: inline-block;
-	max-width: 50px;
-	max-height: 50px;
+	max-width: 60px;
+	max-height: 60px;
 	border-radius: 15px;
 	margin-right: 10px;
 }
@@ -428,7 +428,7 @@ a.header-sm-custom:focus {
 .mini {
 	width: 9px;
 	height: 30px;
-	color: #f1f1f1;
+	color: #060303;
 	font-family: "SF Pro Display";
 	font-size: 14px;
 	font-weight: 500;
@@ -468,7 +468,7 @@ a.header-sm-custom:focus {
 	font-size: 13px;
 	font-weight: 400;
 	line-height: 16px;
-	color: #ffffff;
+	color: #060303;
 	letter-spacing: 0.48px;
 }
 
@@ -486,7 +486,7 @@ a.header-sm-custom:focus {
 }
 
 .rating-big {
-	color: #ffffff;
+	color: #060303;
 	font-family: "SF Pro Display";
 	font-size: 60px;
 	font-weight: 700;
