@@ -669,7 +669,7 @@ html, body {
 
 body {
 background: linear-gradient(119deg, #ffffff, #ffffff, #ffffff); 
-background-size: 800% 800%; 
+background-size: 600% 600%; 
 
 -webkit-animation: Gradient 26s ease infinite; 
 
@@ -712,7 +712,7 @@ animation: Gradient 26s ease infinite;
 	/* background: rgb(77,0,129); */
 background: linear-gradient(119deg, #ffffff, #ffffff, #ffffff);
 
-background-size: 800% 800%;
+background-size: 600% 600%;
 
 -webkit-animation: AnimationName 26s ease infinite;
 
