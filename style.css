@@ -748,7 +748,7 @@ html, body {
 }
 
 body {
-background: linear-gradient(119deg, #4714f4, #f40b36, #0b7bf4); 
+background: linear-gradient(ffffff, #ffffff, #ffffff, #ffffff); 
 background-size: 600% 600%; 
 
 -webkit-animation: Gradient 26s ease infinite; 
@@ -790,7 +790,7 @@ animation: Gradient 26s ease infinite;
 	margin-bottom: 51px;
 	overflow-x: hidden;
 	/* background: rgb(77,0,129); */
-background: linear-gradient(119deg, #4714f4, #f40b36, #0b7bf4);
+background: linear-gradient(ffffff, #ffffff, #ffffff, #ffffff);
 
 background-size: 600% 600%;
 
@@ -1023,7 +1023,7 @@ animation: AnimationName 26s ease infinite;
 	margin-left: 0;
 	padding: 10px;
 	border-radius: 0 0 15px 15px;
-background-image: linear-gradient(to right, #8500ff, #9f00fa, #b500f5, #c801f0, #d812eb);
+background-image: linear-gradient(to right, #ffffff, #ffffff, #ffffff, #ffffff, #ffffff);
 }
 
 .changelog {
