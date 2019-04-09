@@ -287,8 +287,8 @@ padding: 5px 0 0;
 .app-image-lg {
 width: 100px;
 height: 100px;
-max-width: 118px;
-max-height: 118px;
+max-width: 150px;
+max-height: 150px;
 border-radius: 15%;
 padding-right: 5px;
 }
@@ -1186,8 +1186,8 @@ padding: 5px 0 0;
 .app-image-lg {
 width: 100px;
 height: 100px;
-max-width: 118px;
-max-height: 118px;
+max-width: 150px;
+max-height: 150px;
 border-radius: 15%;
 padding-right: 5px;
 }
