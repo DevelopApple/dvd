@@ -135,7 +135,7 @@ height: 27px;
 color: #8a8a8f;
 font-family: "SF Pro Display";
 font-size: 22px;
-font-weight: 800;
+font-weight: 400;
 letter-spacing: 0.35px;
 }
 
@@ -615,33 +615,7 @@ overflow: auto;
 
 
 
-.bar-nav ~ .content {
-padding-top: 44px;
-}
 
-.bar-header-secondary ~ .content {
-padding-top: 88px;
-}
-
-.bar-footer ~ .content {
-padding-bottom: 44px;
-}
-
-.bar-footer-secondary ~ .content {
-padding-bottom: 88px;
-}
-
-.bar-tab ~ .content {
-padding-bottom: 50px;
-}
-
-.bar-footer-secondary-tab ~ .content {
-padding-bottom: 94px;
-}
-
-.push-footer {
-margin: 10px;
-}
 html {
 font-family: sans-serif;
 -webkit-text-size-adjust: 100%;
@@ -1058,7 +1032,7 @@ display: inline-block;
 }
 
 .game-desc {
-width: 310px;
+width: 410px;
 height: 27px;
 color: #8a8a8f;
 font-family: "SF Pro Display";
