@@ -688,10 +688,7 @@ animation: Gradient 26s ease infinite;
 ֳ¢ג‚¬ֲ¯ֳ¢ג‚¬ֲ¯ֳ¢ג‚¬ֲ¯ֳ¢ג‚¬ֲ¯50%{background-position:67% 100%}
 ֳ¢ג‚¬ֲ¯ֳ¢ג‚¬ֲ¯ֳ¢ג‚¬ֲ¯ֳ¢ג‚¬ֲ¯100%{background-position:34% 0%}
 }
-@keyframes Gradient {ֳ¢ג‚¬ֲ¯
-ֳ¢ג‚¬ֲ¯ֳ¢ג‚¬ֲ¯ֳ¢ג‚¬ֲ¯ֳ¢ג‚¬ֲ¯0%{background-position:34% 0%}
-ֳ¢ג‚¬ֲ¯ֳ¢ג‚¬ֲ¯ֳ¢ג‚¬ֲ¯ֳ¢ג‚¬ֲ¯50%{background-position:67% 100%}
-ֳ¢ג‚¬ֲ¯ֳ¢ג‚¬ֲ¯ֳ¢ג‚¬ֲ¯ֳ¢ג‚¬ֲ¯100%{background-position:34% 0%}
+
 } }
 
 .content {
