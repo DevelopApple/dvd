@@ -3,7 +3,8 @@ Author: W3layouts
 Author URL: http://w3layouts.com
 License: Creative Commons Attribution 3.0 Unported
 License URL: http://creativecommons.org/licenses/by/3.0/
---*/.padding {
+--*/
+.padding {
 padding-left: 10px;
 padding-right: 10px;
 margin-left: 0;
@@ -18,7 +19,7 @@ font-size: 34px;
 font-weight: 700;
 letter-spacing: 0.82px;
 line-height: 41px;
-margin-top: 53px;
+margin-top: 13px;
 color: black;
 }
 
